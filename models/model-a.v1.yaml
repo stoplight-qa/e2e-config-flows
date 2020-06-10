@@ -1,0 +1,5 @@
+title: model-a
+type: object
+properties:
+  id:
+    type: string
